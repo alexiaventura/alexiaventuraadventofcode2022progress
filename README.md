@@ -6,3 +6,5 @@ These are my attempts to solve some Advent of Code problems in December 2022, an
 "puzzle_.txt" files: have the input I needed to use in my program
 
 _ is used in place of a number like 1, representing the day that the specific question was released (Day 1 if the number is 1, for example).
+
+I fully solved the questions from Days 1-6 (meaning I solved both parts of each). I came up with partially-completed solutions for the first parts of Days 7 and 8, and decided to upload those as well.
