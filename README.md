@@ -3,7 +3,7 @@ These are my attempts to solve some Advent of Code problems in December 2022, an
 
 "adventofcodeday_.py" files: the Python program files for my solutions
 "adventofcodeday_question" files: have the coding questions
-"puzzle_.txt" files: have the input I needed to use in my program
+"puzzle_.txt" files: have the input I needed to use in my program (Day 7's file name is slightly different than this, and I decided to include the original input file for Day 5 -- which I modified to work with my own program)
 
 _ is used in place of a number like 1, representing the day that the specific question was released (Day 1 if the number is 1, for example).
 
